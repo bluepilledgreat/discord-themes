@@ -5,7 +5,7 @@
 @description    Reverts the new Discord font (gg sans)
 ==/UserStyle== */
 @-moz-document domain("discord.com") {
-    font-face{
+    @font-face{
         font-family:Whitney;
         font-style:normal;
         font-weight:300;
